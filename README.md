@@ -1,7 +1,1 @@
-- 🔭 I’m currently working on data yet to be analysed, as I am getting started with data analytics 
-- 🌱 I’m currently learning the processes involved in data cleaning and visualization 
-- 👯 I’m looking to collaborate with organizations that will grow my career
-- 🤔 I’m looking for help with portfolio creating as I am yet to complete my first project 
-- 💬 Ask me more specific questions if any
-- 📫 How to reach me: amalahachinwenmeri@yahoo.com
-- ⚡ Fun fact: I like walking around a little while I work, listen to music.
+
